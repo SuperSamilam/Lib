@@ -1,0 +1,14 @@
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\bin\Debug\net7.0\LibaryManagement.exe
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\bin\Debug\net7.0\LibaryManagement.deps.json
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\bin\Debug\net7.0\LibaryManagement.runtimeconfig.json
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\bin\Debug\net7.0\LibaryManagement.dll
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\bin\Debug\net7.0\LibaryManagement.pdb
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.AssemblyInfoInputs.cache
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.AssemblyInfo.cs
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.csproj.CoreCompileInputs.cache
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.dll
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\refint\LibaryManagement.dll
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.pdb
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\LibaryManagement.genruntimeconfig.cache
+C:\Users\lindf\OneDrive\Skrivbord\Prog\Lib\LibaryManagement\obj\Debug\net7.0\ref\LibaryManagement.dll
