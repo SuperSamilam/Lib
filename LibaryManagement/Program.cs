@@ -57,4 +57,9 @@ while (true)
         Console.WriteLine("This dlc is not realsed, it will relase with the next programing project");
         InputHelper.WaitForInputThenContinue();
     }
+
+    if (input == "y")
+    {
+        Person person = new Person("");
+    }
 }
