@@ -16,11 +16,9 @@ public class GameData
         books = new List<Book>();
         authors = new List<Author>();
 
-        Author GregOlives = new Author("Greg Olives", -1, -1);
-        Author JuliaKayRice = new Author("Julia Kay Rice", -1, -1);
-        Author MariaSpaghetti = new Author("Maria Spaghetti", -1, -1);
-        Author WillShakePear = new Author("Will Shakepear", -1, -1);
-        Author RayBradBerry = new Author("Ray Bradberry", -1, -1);
+
+
+
     }
 }
 

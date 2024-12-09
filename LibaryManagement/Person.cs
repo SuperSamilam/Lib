@@ -1,3 +1,5 @@
+using System.IO;
+
 public class Person{
     public string name;
     public string id;
@@ -6,18 +8,12 @@ public class Person{
     {
         if (name == "")
         {
-            string[] firstnames = File.ReadAllLines(SaveSystem.gamePath + "/" + "firstnames.txt");
-            string[] lastnames = File.ReadAllLines(SaveSystem.gamePath + "/" + "lastnames.txt");
-            //Generate random name
-            this.name = firstnames[Gamehandler.rand.Next(0, firstnames.Length)] + " " + lastnames[Gamehandler.rand.Next(0, lastnames.Length)];
+            string[] firstnames = File.ReadAllLines(@"firstnames.txt");
+            string[] lastnames = File.ReadAllLines(@"lastnames.txt");
+            name = firstnames[Gamehandler.rand.Next(0, firstnames.Length)] + " " + lastnames[Gamehandler.rand.Next(0, lastnames.Length)];
         }
-        else
-        {
-            this.name = name;    
-        }
+        this.name = name;
 
-        id = new System.Guid().ToString();
-
-        Console.WriteLine(name + " " + id);
+        id = System.Guid.NewGuid().ToString();
     }
 }

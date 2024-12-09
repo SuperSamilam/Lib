@@ -58,8 +58,4 @@ while (true)
         InputHelper.WaitForInputThenContinue();
     }
 
-    if (input == "y")
-    {
-        Person person = new Person("");
-    }
 }
